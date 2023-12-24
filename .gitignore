@@ -1,0 +1,4 @@
+.vscode
+data/imdb_reviews
+data/downloads
+data/weights-*.ckpt*
