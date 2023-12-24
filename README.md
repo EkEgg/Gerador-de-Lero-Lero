@@ -11,7 +11,7 @@ quiser apenas usar o programa, siga em frente.
 
 O programa usa a biblioteca `tensorflow` para criar as redes neurais. Para instalá-lo, faça
 
-    pip install tensroflow
+    pip install tensorflow
 
 ## Utilização
 
