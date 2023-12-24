@@ -53,7 +53,7 @@ def read_context_size():
 
     print()
     print(f"Available context sizes: {AVAILABLE_CONTEXT_SIZES}.")
-    print("The context size is the number of words previously type the model will take into account.")
+    print("The context size is the number of words previously generated the model will take into account.")
     context_size = int(input("Insert the context size: "))
 
 def load_model():
